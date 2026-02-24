@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 #Lab 08 - Colton Ferguson 
 # Version 2
+# this is a lot of comments
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
 
